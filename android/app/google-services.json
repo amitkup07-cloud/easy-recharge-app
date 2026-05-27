@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "434609326513",
+    "project_id": "easy-recharge-app-78372",
+    "storage_bucket": "easy-recharge-app-78372.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434609326513:android:eaa88d803f920718e6d590",
+        "android_client_info": {
+          "package_name": "com.boss.easy_recharge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF2NaQCl_wY1jMtfk7ynwdiepDHwUFAZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434609326513:android:5ca89258c1655ec9e6d590",
+        "android_client_info": {
+          "package_name": "com.example.easy_recharge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF2NaQCl_wY1jMtfk7ynwdiepDHwUFAZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
